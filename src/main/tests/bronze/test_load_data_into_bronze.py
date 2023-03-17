@@ -62,4 +62,3 @@ test_load_data_to_bronze()
 # COMMAND ----------
 
 # add change to trigger git workflow
-# add change to trigger git workflow
